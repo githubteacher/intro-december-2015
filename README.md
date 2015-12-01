@@ -7,5 +7,5 @@ So you signed up for GitHub. Now what? Whether you're new to version control or 
 
 
 ### References
-- Virtually every place you enter text on GitHub accepts Markdown. Not sure what that is? Checkt out [this introduction](https://guides.github.com/features/mastering-markdown/).
+- Virtually every place you enter text on GitHub accepts Markdown. Not sure what that is? Check out [this introduction](https://guides.github.com/features/mastering-markdown/).
 - Unsure how to start making changes to your project? We recommend a workflow we call [GitHub Flow](https://guides.github.com/introduction/flow/).
