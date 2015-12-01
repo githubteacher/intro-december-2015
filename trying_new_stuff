@@ -12,3 +12,5 @@ Created on Tue Oct 06 07:56:58 2015
 
 from sklearn import datasets
 from sklearn import cross_validation
+
+#added some new text
