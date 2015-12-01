@@ -2,7 +2,7 @@ So you signed up for GitHub. Now what? Whether you're new to version control or 
 
 
 ### Teachers
-- Patrick McKenna (`@loranallensmith`)
+- Patrick McKenna (`@patrickmckenna`)
 - Joshua Wehner (`@jaw6`)
 
 
