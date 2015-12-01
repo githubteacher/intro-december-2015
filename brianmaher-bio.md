@@ -1,3 +1,3 @@
 Hello world.
 
-Thank you, **githubteacher**
+Thank you, **githubteacher**!
