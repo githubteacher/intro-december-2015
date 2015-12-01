@@ -1,1 +1,1 @@
-I live on the interwebs.
+I live on teh interwebz.
