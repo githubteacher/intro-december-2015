@@ -1,3 +1,7 @@
+## LaTeX supported?
+
+$\ln\left(\frac{\rho(r)}{\rho_s}\right) = -b\left[\left(\frac{r}{r_s}\right)^{\frac{1}{n}} - 1\right]$
+
 So you signed up for GitHub. Now what? Whether you're new to version control or just need an explanation of Git and GitHub, this one hour class will help you understand the concepts of distributed version control and get started using GitHub. We'll demonstrate basic Git and GitHub concepts using step-by-step lessons.
 
 
