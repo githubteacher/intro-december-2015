@@ -1,1 +1,0 @@
-GA and Git rocks
