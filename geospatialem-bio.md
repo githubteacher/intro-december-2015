@@ -1,1 +1,1 @@
-i iz **[geospatialem](http://www.github.com/geospatialem)**.
+i iz **[geospatialem](https://www.github.com/geospatialem)**.
